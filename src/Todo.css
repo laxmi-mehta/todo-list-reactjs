@@ -58,17 +58,10 @@ li button{
     text-transform: capitalize;
     text-decoration: underline;
 }
-@media (max-width:500px) {
+@media (max-width:300px) {
     .todo-container{
         width: 300px;
        height: 200px;
-    }
-    
-}
-@media (max-width:1000px) {
-    .todo-container{
-        width: 700px;
-       height: 300px;
     }
     
 }
